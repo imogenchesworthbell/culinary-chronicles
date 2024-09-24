@@ -1,14 +1,24 @@
 h1 {
     text-align: center;
-    text-shadow: 2px 2px gray;
+    text-shadow: 2px 2px pink;
     text-decoration: underline;
     text-underline-offset: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 h3{
     text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+h4 {
+    font-size: 1.5em;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.centreeverything {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
 #italian {
     height: 200px;
     width: 300px;
@@ -18,8 +28,20 @@ h3{
     height: 200px;
     width: 300px;
 }
+#indian {
+    height: 200px;
+    width: 300px;
+}
+#lebanese {
+    height: 200px;
+    width: 300px;
+}
 
 #pizza {
+    height: 200px;
+    width: 300px;
+}
+#sap {
     height: 200px;
     width: 300px;
 }
@@ -29,3 +51,18 @@ body {
     background-size: cover;
 
 }
+
+.myDiv {
+    border: 5px outset pink;
+    text-align: left;
+  }
+
+.myDiv2 {
+    border: 5px outset rgb(235, 114, 154);
+    text-align: center;
+  } 
+
+.myDiv3 {
+    border: 5px outset rgb(235, 52, 113);
+    text-align: left;
+  }
