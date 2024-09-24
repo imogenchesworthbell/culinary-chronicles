@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+    text-shadow: 2px 2px gray;
+    text-decoration: underline;
+    text-underline-offset: 5px;
+}
+
+h3{
+    text-align: center;
+}
+
+#italian {
+    height: 200px;
+    width: 300px;
+}
+
+#chinese {
+    height: 200px;
+    width: 300px;
+}
+
+#pizza {
+    height: 200px;
+    width: 300px;
+}
+
+body {
+    background-image: url(glitter.jpeg);
+    background-size: cover;
+
+}
